@@ -9,7 +9,7 @@ import sys
 HEADER = 64
 PORT = 5050
 
-#Google DNS IP address has been put here for now
+#Google DNS IP address has been put here as a placeholder
 #Input your local machine's local IP address here before running
 SERVER = "8.8.8.8" 
 ADDR = (SERVER, PORT)
